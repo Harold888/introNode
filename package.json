@@ -1,0 +1,19 @@
+{
+  "name": "intronode",
+  "version": "0.0.1",
+  "description": "Programa de ejemplo con node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "intro",
+    "node",
+    "atenea"
+  ],
+  "author": "Harold Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
